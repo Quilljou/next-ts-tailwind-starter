@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Next TS Tailwind Starter",
+    "features": "기능",
+    "modernstack": "현대적이고 효율적인 스택",
+    "modernstack-desc": "Next.js, Tailwind CSS, Shadcn UI 등으로 구축되었습니다.",
+    "i18nsupport": "내장된 i18n 지원",
+    "i18nsupport-desc": "다양한 언어로 제품을 출시할 수 있습니다.",
+    "linters": "저장 시 모든 코드를 린트합니다.",
+    "linters-desc": "ESLint, Prettier, Stylelint, Commitlint로 구축되었습니다.",
+    "hero-title": "우리가 사랑하는 최고의 DX로 앱을 개발하세요.",
+    "get-started": "시작하기"
+  },
+  "notfound": {
+    "oops": "이런!",
+    "title": "죄송합니다. 예기치 않은 오류가 발생했습니다.",
+    "backtohomepage": "홈페이지로 돌아가기"
+  }
+}

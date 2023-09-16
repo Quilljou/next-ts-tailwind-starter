@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Next TS Tailwind Starter",
+    "features": "Recursos",
+    "modernstack": "Pilha moderna e eficiente",
+    "modernstack-desc": "Construído com Next.js, Tailwind CSS, Shadcn UI e mais",
+    "i18nsupport": "Suporte i18n pronto para uso",
+    "i18nsupport-desc": "Envie seu produto com diferentes idiomas nativamente",
+    "linters": "Verificar todo o código ao salvar",
+    "linters-desc": "Construído com ESLint, Prettier, Stylelint e Commitlint",
+    "hero-title": "Construindo aplicativos com a melhor experiência de desenvolvimento que amamos",
+    "get-started": "Começar"
+  },
+  "notfound": {
+    "oops": "Ops!",
+    "title": "Desculpe, ocorreu um erro inesperado.",
+    "backtohomepage": "Voltar para a página inicial"
+  }
+}

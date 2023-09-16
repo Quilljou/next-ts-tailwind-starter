@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Next TS Tailwind Starter",
+    "features": "Особенности",
+    "modernstack": "Современный и эффективный стек",
+    "modernstack-desc": "Построен с использованием Next.js, Tailwind CSS, Shadcn UI и других",
+    "i18nsupport": "Поддержка i18n из коробки",
+    "i18nsupport-desc": "Поставляйте свой продукт с поддержкой разных языков на родном уровне",
+    "linters": "Проверка кода при сохранении",
+    "linters-desc": "Построен с использованием ESLint, Prettier, Stylelint и Commitlint",
+    "hero-title": "Создание приложений с лучшим DX, который мы любим",
+    "get-started": "Начать"
+  },
+  "notfound": {
+    "oops": "Упс!",
+    "title": "Извините, произошла непредвиденная ошибка.",
+    "backtohomepage": "Вернуться на главную страницу"
+  }
+}

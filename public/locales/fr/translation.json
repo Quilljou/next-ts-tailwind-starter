@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Démarrage Next TS Tailwind",
+    "features": "Fonctionnalités",
+    "modernstack": "Stack moderne et efficace",
+    "modernstack-desc": "Construit avec Next.js, Tailwind CSS, Shadcn UI, et plus encore",
+    "i18nsupport": "Support i18n intégré",
+    "i18nsupport-desc": "Expédiez votre produit avec différentes langues nativement",
+    "linters": "Vérification de code à chaque enregistrement",
+    "linters-desc": "Construit avec ESLint, Prettier, Stylelint, et Commitlint",
+    "hero-title": "Construction d'applications avec la meilleure expérience de développement que nous aimons",
+    "get-started": "Commencer"
+  },
+  "notfound": {
+    "oops": "Oops !",
+    "title": "Désolé, une erreur inattendue s'est produite.",
+    "backtohomepage": "Retour à la page d'accueil"
+  }
+}

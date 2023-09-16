@@ -1,4 +1,4 @@
-## Vite-React-Tailwind-Starter
+## Next-TS-Tailwind-Starter
 
 Choosing a technology stack is a very subjective matter, if you happen to like using `NextJS`, `Tailwind CSS`, `Typescript` and `Shadcn UI` and more to build NextJS applications, then give it a try.
 
@@ -23,7 +23,6 @@ We prefer `Yarn` as package manager, If you want to use `pnpm` or `npm`, feel fr
 - [transmart](https://github.com/Quilljou/transmart)
 - [react-query](https://tanstack.com/query/latest/)
 - [tailwindcss](https://tailwindcss.com/)
-- [less](http://lesscss.org/)
 - [postcss](https://postcss.org/)
 - [react-router-dom](https://reactrouter.com/en/6.16.0)
 - [eslint](https://eslint.org/)/[stylelint](https://stylelint.io/)
@@ -44,11 +43,11 @@ We prefer `Yarn` as package manager, If you want to use `pnpm` or `npm`, feel fr
 Enjoy building.
 
 
-## Related (Coming Soon)
+## Related
 
 [vite-react-tailwind-starter](https://vite-react-ts-tailwind-starter.pages.dev/)
 
-[Electron Starter](https://)
+<!-- [Electron Starter](https://)
 
 [R3f Starter](https://)
 
@@ -60,6 +59,6 @@ Enjoy building.
 
 [Chrome Extension Starter](https://)
 
-[VSCode Extension Starter](https://)
+[VSCode Extension Starter](https://) -->
 
 

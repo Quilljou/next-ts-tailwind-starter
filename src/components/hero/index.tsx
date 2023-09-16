@@ -1,9 +1,9 @@
 import { Rocket, Globe2, Wrench, Zap } from 'lucide-react'
-import { useTranslation } from 'react-i18next'
+import { useTranslations } from 'next-intl'
 import { Button } from '../ui/button'
 
 export const Hero = () => {
-  const { t } = useTranslation()
+  const t = useTranslations('home')
 
   return (
     <div className="flex min-h-screen bg-gradient-to-b from-lime-300 to-lime-500">
@@ -16,7 +16,7 @@ export const Hero = () => {
                   {t('hero-title')}
                 </h1>
                 <Button className="font-semiboldn gap-3 py-6 text-lg" size={'lg'} asChild>
-                  <a href="https://github.com/Quilljou/vite-react-ts-tailwind-starter">
+                  <a href="https://github.com/Quilljou/next-ts-tailwind-starter">
                     <Zap />
                     {t('get-started')}
                   </a>

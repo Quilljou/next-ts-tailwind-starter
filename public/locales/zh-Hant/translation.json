@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Next TS Tailwind Starter",
+    "features": "功能",
+    "modernstack": "現代且高效的堆疊",
+    "modernstack-desc": "使用 Next.js、Tailwind CSS、Shadcn UI 等建構",
+    "i18nsupport": "原生支援多國語言",
+    "i18nsupport-desc": "以不同語言提供產品",
+    "linters": "保存時檢查所有程式碼",
+    "linters-desc": "使用 ESLint、Prettier、Stylelint 和 Commitlint 建構",
+    "hero-title": "使用我們喜愛的最佳 DX 建構應用程式",
+    "get-started": "開始使用"
+  },
+  "notfound": {
+    "oops": "哎呀！",
+    "title": "抱歉，發生了意外錯誤。",
+    "backtohomepage": "返回首頁"
+  }
+}

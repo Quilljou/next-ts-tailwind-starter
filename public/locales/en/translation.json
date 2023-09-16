@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Next TS Tailwind Starter",
+    "features": "Features",
+    "modernstack": "Modern and efficient stack",
+    "modernstack-desc": "Built with Next.js, Tailwind CSS, Shadcn UI, and more",
+    "i18nsupport": "i18n support out of the box",
+    "i18nsupport-desc": "Ship your product with different languages natively",
+    "linters": "Lint all code at save",
+    "linters-desc": "Built with ESLint, Prettier, Stylelint, and Commitlint",
+    "hero-title": "Building Apps with the best DX we love",
+    "get-started": "Get Started"
+  },
+  "notfound": {
+    "oops": "Oops!",
+    "title": "Sorry, an unexpected error has occurred.",
+    "backtohomepage": "Back to home page"
+  }
+}

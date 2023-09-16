@@ -3,7 +3,10 @@
     "module": "esnext",
     "useDefineForClassFields": true,
     "target": "ESNext",
-    "lib": ["esnext", "dom"],
+    "lib": [
+      "esnext",
+      "dom"
+    ],
     "allowJs": true,
     "moduleResolution": "node",
     "strict": true,
@@ -22,10 +25,28 @@
     "experimentalDecorators": true,
     "baseUrl": ".",
     "rootDir": ".",
-    "jsx": "react-jsx",
+    "jsx": "preserve",
     "paths": {
-      "src/*": ["./src/*"]
-    }
+      "src/*": [
+        "./src/*"
+      ]
+    },
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "incremental": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ]
   },
-  "include": ["./src", "vite-env.d.ts"]
+  "include": [
+    "./src",
+    ".next/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
 }
