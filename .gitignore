@@ -177,5 +177,6 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/macOS,node
 n
 
-yarn.lock
+.vercel
 package-lock.json
+yarn.lock
