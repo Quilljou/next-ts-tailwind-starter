@@ -36,7 +36,10 @@ export const LocaleSwitcher = () => {
           </div>
         </PopoverTrigger>
 
-        <PopoverContent className="absolute mt-1 max-h-60 w-auto overflow-auto rounded-md bg-white p-0 py-1 text-base shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none sm:text-sm">
+        <PopoverContent
+          align="start"
+          className="absolute mt-1 max-h-60 w-auto overflow-auto rounded-md bg-white p-0 py-1 text-base shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none sm:text-sm"
+        >
           {localesAndNames.map(({ locale, name }) => {
             const isSelected = currentLanguage === locale
             return (
