@@ -36,6 +36,7 @@ export async function generateMetadata({ params: { locale } }: Props): Promise<M
     description: t('home.title'),
     keywords: 'nextjs,react,typescript,tailwindcss,template,starter,boilerplate',
     themeColor: '#66C9F8',
+    metadataBase: new URL('https://next-ts-tailwind-starter.pages.dev'),
   }
 }
 
