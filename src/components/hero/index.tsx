@@ -15,12 +15,12 @@ export const Hero = () => {
                 <h1 className="mb-6 text-3xl font-bold tracking-tighter text-transparent text-white sm:text-5xl xl:text-6xl/none">
                   {t('hero-title')}
                 </h1>
-                <Button className="font-semiboldn gap-3 py-6 text-lg" size={'lg'} asChild>
-                  <a href="https://github.com/Quilljou/next-ts-tailwind-starter">
+                <a href="https://github.com/Quilljou/next-ts-tailwind-starter">
+                  <Button className="font-semiboldn gap-3 py-6 text-lg" size={'lg'}>
                     <Zap />
                     {t('get-started')}
-                  </a>
-                </Button>
+                  </Button>
+                </a>
               </div>
               <div className="mx-auto w-full max-w-full space-y-4">
                 <div className="grid grid-cols-1 gap-8 md:grid-cols-3">
