@@ -24,7 +24,6 @@ We prefer `Yarn` as package manager, If you want to use `pnpm` or `npm`, feel fr
 - [react-query](https://tanstack.com/query/latest/)
 - [tailwindcss](https://tailwindcss.com/)
 - [postcss](https://postcss.org/)
-- [react-router-dom](https://reactrouter.com/en/6.16.0)
 - [eslint](https://eslint.org/)/[stylelint](https://stylelint.io/)
 - [prettier](https://prettier.io/)
 - [svgr](https://react-svgr.com/)
