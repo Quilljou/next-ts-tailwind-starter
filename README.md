@@ -30,6 +30,7 @@ We prefer `Yarn` as package manager, If you want to use `pnpm` or `npm`, feel fr
 - [editorconfig](https://editorconfig.org/)
 - [husky](https://typicode.github.io/husky/#/)/[lint-staged](https://github.com/okonet/lint-staged)
 - [commitlint](https://commitlint.js.org/)
+- [next-sitemap](https://github.com/iamvishnusankar/next-sitemap#readme)
 
 
 
