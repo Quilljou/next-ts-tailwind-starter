@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://next-ts-tailwind-starter.pages.dev
+
+# Sitemaps
+Sitemap: https://next-ts-tailwind-starter.pages.dev/sitemap.xml

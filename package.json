@@ -6,6 +6,7 @@
     "prepare": "husky install",
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "next-sitemap",
     "start": "next start",
     "typecheck": "tsc --noEmit",
     "typecheck:watch": "tsc --noEmit --watch",

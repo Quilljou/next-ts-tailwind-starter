@@ -36,6 +36,7 @@ export async function generateMetadata({ params: { locale } }: Props): Promise<M
     description: t('home.title'),
     keywords: 'nextjs,react,typescript,tailwindcss,template,starter,boilerplate',
     themeColor: '#66C9F8',
+    viewport: 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0',
   }
 }
 
