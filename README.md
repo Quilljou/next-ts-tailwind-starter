@@ -45,7 +45,11 @@ Enjoy building.
 
 ## Related
 
-[vite-react-tailwind-starter](https://vite-react-ts-tailwind-starter.pages.dev/)
+- [Next Starter](https://github.com/Quilljou/next-ts-tailwind-starter)
+
+- [React Starter](https://github.com/Quilljou/vite-react-ts-tailwind-starter)
+
+- [Figma Starter](https://github.com/Quilljou/figma-react-tailwind-starter)
 
 <!-- [Electron Starter](https://)
 
