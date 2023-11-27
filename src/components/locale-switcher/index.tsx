@@ -4,8 +4,8 @@ import { Popover, PopoverArrow, PopoverContent, PopoverTrigger } from '../ui/pop
 import { cn } from 'src/lib/utils'
 import { Languages, ChevronDown } from 'lucide-react'
 import { LANGUAGES } from 'src/lib/constants'
-import { usePathname } from 'next-intl/client'
-import Link from 'next-intl/link'
+import { createSharedPathnamesNavigation } from 'next-intl/navigation'
+// import Link from 'next-intl/link'
 
 const getLocaleDisplayName = (locale: string, displayLocale?: string) => {
   const displayName = new Intl.DisplayNames([displayLocale || locale], {
@@ -16,6 +16,8 @@ const getLocaleDisplayName = (locale: string, displayLocale?: string) => {
 
 export const LocaleSwitcher = () => {
   const currentLanguage = useLocale()
+  const { Link, usePathname } = createSharedPathnamesNavigation({ locales: LANGUAGES })
+
   const pathname = usePathname()
 
   const localesAndNames = useMemo(() => {
